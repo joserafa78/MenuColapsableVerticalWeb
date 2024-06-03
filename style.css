@@ -79,8 +79,10 @@ body{
     margin: 0 auto;
 }
 #sidemenu #profile #photo{
-   border-radius: 50%;
-   width: 50%;
+   border-radius: 80%;
+  width: 30%;
+ 
+  
 }
 #sidemenu #profile #photo, #sidemenu #profile #name{
     font-size: 24px;

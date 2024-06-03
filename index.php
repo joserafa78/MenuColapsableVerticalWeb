@@ -27,7 +27,7 @@
         <!-- PROFILE  -->
         <div id="profile">
             <div id="photo">
-                <img src="imagen/joserafael1.png"></img>
+                <img src="imagen/JoseRafaelJimenez.jpg"></img>
             </div>
             <div id="name"><span>Jose Rafel Jimenez</span></div>
         </div>
@@ -41,6 +41,22 @@
                 </a>
             </div>
 
+            <div id="item separator"></div>
+
+            <div class="item">
+                <a href="#">
+                    <div class="icon"><img src="icons/cloud-services.png" alt=""></div>
+                    <div class="title"><span>Cloud Services</span></div>
+                </a>
+            </div>
+            <div id="item separator"></div>
+
+            <div class="item">
+                <a href="#">
+                    <div class="icon"><img src="icons/cloud-services.png" alt=""></div>
+                    <div class="title"><span>Cloud Services</span></div>
+                </a>
+            </div>
             <div id="item separator"></div>
 
             <div class="item">
